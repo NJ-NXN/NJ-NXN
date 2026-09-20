@@ -2,7 +2,7 @@
 
 > Welcome to my GitHub
 
-I am a Junior Software Developer and a BSc Computer Science student passionate about systems-level programming, full-stack development, and machine learning. I love building practical software solutions and diving into complex technical challenges.
+I am a Software Developer and a BSc Computer Science student passionate about systems-level programming, full-stack development, and machine learning. I love building practical software solutions and diving into complex technical challenges.
 You can reach out to me at @nixonjunior1000@gmail.com
 
 > I believe in creating with a purpose, continuous learning and building solutions for Africa, by Africans.
